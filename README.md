@@ -7,5 +7,5 @@ any rights to the Wordle brand owned by the New York Times Company.
 
 Copyright (c) 2023 Bartosz Kaczorowski
 
-For the game to work properly, in the folder with the executable file,
-there should be a .txt file with the same name, from which the game dictionary will be loaded.
+For the game to work properly, in the directory with the executable file,
+there should be a .txt file with the same name, from which the game's dictionary will be loaded.
